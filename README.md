@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Graduation Project**
 
-- 🌱 I’m currently learning **Mobile Apps Development using Flutter**
+- 🌱 I’m currently learning **Mobile Apps Development Using Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
