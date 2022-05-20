@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **My Graduation Project**
 
-- 🌱 I’m currently learning **Mobile apps development using Flutter**
+- 🌱 I’m currently learning **Mobile Apps Development using Flutter**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **hagershreif5@gmail.com**
 
