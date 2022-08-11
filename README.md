@@ -2,7 +2,7 @@
 <h3 align="center">Junior Flutter Developer</h3>
 
 
-- 🔭 I’m currently working on **My Graduation Project**
+- 🔭 I’m currently working on **Flutter apps**
 
 - 🌱 I’m currently learning **Mobile Apps Development Using Flutter**
 
